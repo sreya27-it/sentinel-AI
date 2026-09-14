@@ -1,0 +1,6 @@
+{
+  "name": "SENTINEL AI",
+  "description": "Your Digital Communication Shield — Native Android cybersecurity platform with AI threat intelligence, Sentinel Core, and real-time defense.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
